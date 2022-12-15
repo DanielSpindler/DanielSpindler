@@ -1,8 +1,6 @@
 <h1 align="center">Hey , I'm Daniel</h1>
 <h3 align="center">A highly motivated frontend and backend developer from Germany</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=danielspindler&label=Profile%20views&color=0e75b6&style=flat" alt="danielspindler" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielspindler" alt="danielspindler" /></a> </p>
 
 - 🔭 I’m currently working on learning **NextJS**
 
@@ -14,14 +12,17 @@
 
 - 📫 How to reach me **admin@daniel-spindler.de**
 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DanielSpindler&label=Profile%20views&color=0e75b6&style=flat" alt="danielspindler" /> </p>
+
 <p align="left">
 </p>
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielspindler&" alt="danielspindler" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielspindler&show_icons=true&locale=en" alt="danielspindler" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielSpindler&show_icons=true&locale=en" alt="danielspindler" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielspindler&show_icons=true&locale=en&layout=compact" alt="danielspindler" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielSpindler&show_icons=true&locale=en&layout=compact" alt="danielspindler" /></p>
 </div>
 <h3 align="left">Languages and Tools:</h3>
 
