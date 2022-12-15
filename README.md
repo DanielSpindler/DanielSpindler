@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 
 <!--
 **DanielSpindler/DanielSpindler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
