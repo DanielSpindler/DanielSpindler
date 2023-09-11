@@ -2,11 +2,11 @@
 <h3 align="center">A highly motivated frontend and backend developer from Germany</h3>
 
 
-- 🔭 I’m currently working on learning **NextJS**
+- 🔭 I’m currently working on Internal **NextJS** **GraphQL** **Micro-service** Projects
 
-- 🌱 I’m also learning **TypeScript, Laravel, Deepen my React knowledge**
+- 🌱 I’m also learning **More to Microservices, Basics to Game Dev, Deepen my React and NextJS knowledge**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DanielSpindler](https://github.com/DanielSpindler)
+- 👨‍💻 Some of my projects are available at [https://github.com/DanielSpindler](https://github.com/DanielSpindler) 
 
 - 💬 Ask me if you have any Questions about **my favorite frameworks**
 
