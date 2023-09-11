@@ -1,5 +1,5 @@
 <h1 align="center">Hey , I'm Daniel</h1>
-<h3 align="center">A highly motivated frontend and backend developer from Germany</h3>
+<h3 align="center">A highly motivated Fullstack developer from Germany</h3>
 
 
 - 🔭 I’m currently working on Internal **NextJS** **GraphQL** **Micro-service** Projects
