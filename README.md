@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Internal **NextJS** **GraphQL** **Micro-service** Projects
 
-- 🌱 I’m also learning **More to Microservices, Basics to Game Dev, Deepen my React and NextJS knowledge**
+- 🌱 I’m also learning **More to Microservices, Basics to Game Dev, Deepen my React, Remix, and NextJS knowledge**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/DanielSpindler](https://github.com/DanielSpindler) 
 
