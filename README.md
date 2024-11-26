@@ -6,7 +6,9 @@
 
 - 🌱 I’m also learning **More to Microservices, Basics to Game Dev, Deepen my React, Remix, and NextJS knowledge**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/DanielSpindler](https://github.com/DanielSpindler) 
+- 👨‍💻 Some of my projects are available at [https://github.com/DanielSpindler](https://github.com/DanielSpindler)
+
+- 🔭 My Website : [https://daniel-spindler.de/](https://daniel-spindler.de/), still in progress and more of a playground to test some things. Can change from time to time!
 
 - 💬 Ask me if you have any Questions about **my favorite frameworks**
 
